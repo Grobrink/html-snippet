@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<--
+	The <aside> element is used to represent content that is tangibly related to the content surrounding it, but could be considered separate. This includes things like sidebars (like those you might find in a book), groups of <nav> elements, figures and pull quotes.
+-->
+<aside>
+	<h1>$1</h1>
+
+	$2
+</aside>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>aside</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

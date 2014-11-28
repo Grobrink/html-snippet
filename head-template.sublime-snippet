@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="author" content="Globule Bleu" />
+
+	<title>$1</title>
+
+	<link rel="stylesheet" type="text/css" href="./css/style.css">
+	<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>head</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

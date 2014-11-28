@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<nav>
+	<ul>
+		<li>
+			<a href="#" title="link">$1</a>
+		</li>
+	</ul>
+</nav>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>nav</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

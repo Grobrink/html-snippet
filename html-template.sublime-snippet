@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <!DOCTYPE html>
-<html>
+<html class="no-js grid">
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -21,7 +21,7 @@
 		<header>
 			<h1>
 			</h1>
-			
+
 			<h2>
 			</h2>
 
@@ -38,7 +38,7 @@
 			<section>
 				<header>
 					<h1>
-						
+
 					</h1>
 				</header>
 
@@ -52,6 +52,16 @@
 
 		<footer>
 		</footer>
+
+
+		<!--
+			Show the sematic gs "grid"
+			Add or remove the grid class to/from <html>
+			to show or hide the grid helper
+		 -->
+		<div id="grid">
+			<div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+		</div>
 
 		<!-- Scripts -->
 		<script type="text/javascript" src="./js/script.js"></script>

@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<picture>
+	<source
+		media="(min-width: $1)"
+		srcset="$2">
+
+	<source
+		media="(min-width: $3)"
+		srcset="$4">
+
+	<img src="$5" alt="This picture loads on non-supporting browsers.">
+
+	<p>Accessible text.</p>
+</picture>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>picture2</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.html</scope>
+	<scope>source.php</scope>
+</snippet>

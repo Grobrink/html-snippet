@@ -11,6 +11,12 @@
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>aside</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
+	<scope>source.php</scope>
+	
+	<description>
+		HTML - Aside
+		The aside tag defines some content aside from the content it is placed in.
+		The aside content should be related to the surrounding content.
+	</description>
 </snippet>

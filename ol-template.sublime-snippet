@@ -10,5 +10,8 @@
 $5]]>
 </content>
 	<tabTrigger>ol</tabTrigger>
+	<scope>text.html</scope>
+	<scope>source.php</scope>
+	
 	<description>HTML - Ordered list</description>
 </snippet>
